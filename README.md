@@ -1,0 +1,1 @@
+This project explores the Akaike Information Criteria (AIC) and minimum description length (MDL) and Bayesian Information Criteria (BIC) estimators for signal subspace selecting model order to determine the number of signals in a set of data.
